@@ -1,0 +1,20 @@
+Summary: Simple Android Blackjack Game
+Description: |
+    Black Jack Game is a simple Android application that lets you play the classic card game Blackjack on your mobile device.
+    This game does not require internet access and respects your privacy.
+    Features:
+    - Single-player mode
+    - No in-app purchases or ads
+    - No sign-up required
+
+RepoType: git
+Repo: https://github.com/NikolaPopovic71/Black-Jack-android
+
+Builds:
+  - versionName: 1.0
+    versionCode: 1
+    commit: e7722ec
+    subdir: app
+    gradle: yes
+
+Maintainer: Your Name <nikolap.itech@gmail.com>
