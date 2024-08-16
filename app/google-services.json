@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "439143699551",
+    "project_id": "black-jack-game-4ecde",
+    "storage_bucket": "black-jack-game-4ecde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439143699551:android:db5ff1cad22b992d2e77ea",
+        "android_client_info": {
+          "package_name": "com.ponitech.blackjack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQEd7lJpJ6b2jhSueBSMjjZA_5wpyYRIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

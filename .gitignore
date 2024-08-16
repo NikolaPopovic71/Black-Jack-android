@@ -1,3 +1,4 @@
+ HEAD
 # Gradle files
 .gradle/
 **/build/
@@ -62,3 +63,19 @@ dist/
 npm-debug.log
 yarn-error.log
 .pnpm-debug.log
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+ f7af151 (Initial commit with all files)
